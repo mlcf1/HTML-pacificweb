@@ -1,0 +1,84 @@
+ 
+   #gipsy{
+        text-align: center;
+        color: rgb(38, 73, 139);
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       font-size: 300%;
+       text-shadow: 2px 3px rgba(255, 251, 0, 0.555);
+      
+   }
+   #giptexto{
+    color: rgb(21, 41, 78);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: inline-block;
+    margin-top: 3cm;
+}
+#giplink link{
+ color: rgb(21, 41, 78);
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ 
+}
+
+  .logo img{
+        width: 50%;
+        height: 40%;
+        margin-left: 12cm;
+    }
+    #gim img{
+        width: 50%;
+        height: 80%;
+        margin-left: 850px;
+        margin-top: -10cm;
+        display: inline-block;
+    }
+    #crimson img{
+        width: 50%;
+        height: 90%;
+        margin-left: 850px;
+        margin-top: -10cm;
+        display: inline-block;
+    }
+    #typhoon{
+        text-align: center;
+        color: rgb(196, 21, 21);
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+       font-size: 300%;
+       text-shadow: 2px 3px rgba(255, 251, 0, 0.555);
+    }
+    #crimtexto{
+        color: rgb(148, 15, 15);
+       font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+       display: inline-block;
+       margin-top: 3cm;
+        
+    }
+    #crimlink{
+        color: rgb(148, 15, 15);
+       font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+       }
+    #ch img{
+        width: 40%;
+        height: 110%;
+        margin-left: 850px;
+        margin-top: -10cm;
+        display: inline-block;
+    }
+    #cherno{
+        text-align: center;
+        color: rgb(53, 85, 53);
+       font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+       font-size: 300%;
+       text-shadow: 2px 3px rgba(255, 0, 0, 0.555);
+      
+   }
+   #alphtexto{
+    color: rgb(32, 78, 21);
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   display: inline-block;
+   margin-bottom: 1cm;
+    
+}
+#alphlink{
+ color: rgb(32, 78, 21);
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
